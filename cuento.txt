@@ -1,5 +1,6 @@
-﻿Había una vez una desarrolladora aprendiendo Git.
+Había una vez una estudiante universitaria que programaba en la nube.
 
 Y un día decidió crear una rama paralela.
 
 Y entonces su compañero de equipo agregó un nuevo cambio desde la nube.
+
