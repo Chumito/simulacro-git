@@ -1,5 +1,6 @@
-﻿Había una vez una desarrolladora experta que dominaba la terminal.
+Había una vez una desarrolladora experta que dominaba la terminal.
 
 Y un día decidió crear una rama paralela.
 
 Y entonces su compañero de equipo agregó un nuevo cambio desde la nube.
+
