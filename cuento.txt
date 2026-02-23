@@ -1,4 +1,4 @@
-﻿Había una vez una desarrolladora aprendiendo Git.
+﻿Había una vez una desarrolladora experta que dominaba la terminal.
 
 Y un día decidió crear una rama paralela.
 
